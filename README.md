@@ -55,4 +55,9 @@ truly assist people in making life decisions - not just generate text.
 ## 🚀 How to Run Locally
 1. Clone this repo:
    ```bash
-   git clone 
+   git clone https://github.com/MythicBat/Career-Coach-GENAI-Project.git
+   cd personalized-career-coach
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
