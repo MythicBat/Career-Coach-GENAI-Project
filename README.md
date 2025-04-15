@@ -70,4 +70,5 @@ truly assist people in making life decisions - not just generate text.
    ```bash
    python app.py
 
-##
+## 📄 Example PDF Report
+[Download Sample Report](examples/alin_careers_report.pdf)
