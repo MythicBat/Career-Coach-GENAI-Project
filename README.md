@@ -52,6 +52,8 @@ truly assist people in making life decisions - not just generate text.
 - ✅ Document understanding (resume text extraction)
 - ✅ Structured content generation
 
+---
+
 ## 🚀 How to Run Locally
 1. Clone this repo:
    ```bash
@@ -70,6 +72,8 @@ truly assist people in making life decisions - not just generate text.
    ```bash
    python app.py
 
+---
+
 ## 📄 Example PDF Report
 [Download Sample Report](examples/alin_careers_report.pdf)
 
@@ -77,5 +81,5 @@ truly assist people in making life decisions - not just generate text.
 
 ## 🙋‍♂️ Author
 **Alin Merchant**
-- [GitHub]()
+- [GitHub](https://github.com/MythicBat)
 - [LinkedIn](https://www.linkedin.com/in/alin-merchant-9b2002225)
