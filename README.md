@@ -72,3 +72,10 @@ truly assist people in making life decisions - not just generate text.
 
 ## 📄 Example PDF Report
 [Download Sample Report](examples/alin_careers_report.pdf)
+
+---
+
+## 🙋‍♂️ Author
+**Alin Merchant**
+- [GitHub]()
+- [LinkedIn](https://www.linkedin.com/in/alin-merchant-9b2002225)
