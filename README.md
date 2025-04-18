@@ -79,6 +79,18 @@ truly assist people in making life decisions - not just generate text.
 
 ---
 
+## 📰 Read the Blogpost
+Want to learn how this was built step-by-step?
+
+📖 **Read the full blog on Medium -> [LINK HERE](https://medium.com/@alinmerchant5/from-resume-to-roadmap-building-an-ai-career-coach-with-gpt-3-5-9a6177b21719)**
+
+I cover:
+- Why I built the app
+- How GPT-3.5 powers career matching
+- How resume parsing and PDF exports were implemented
+
+---
+
 ## 🙋‍♂️ Author
 **Alin Merchant**
 - [GitHub](https://github.com/MythicBat)
