@@ -58,7 +58,7 @@ truly assist people in making life decisions - not just generate text.
 1. Clone this repo:
    ```bash
    git clone https://github.com/MythicBat/Career-Coach-GENAI-Project.git
-   cd personalized-career-coach
+   cd Career-Coach-GENAI-Project
 
 2. Install dependencies:
    ```bash
