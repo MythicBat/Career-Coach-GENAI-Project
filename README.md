@@ -82,7 +82,7 @@ truly assist people in making life decisions - not just generate text.
 ## 📰 Read the Blogpost
 Want to learn how this was built step-by-step?
 
-📖 **Read the full blog on Medium -> [LINK HERE](https://medium.com/@alinmerchant5/from-resume-to-roadmap-building-an-ai-career-coach-with-gpt-3-5-9a6177b21719)**
+📖 **Read the full blog on Medium -> [LINK HERE](https://medium.com/@alinmerchant5/%EF%B8%8F-from-resume-to-roadmap-building-an-ai-career-coach-076d1a1605b0)**
 
 I cover:
 - Why I built the app
