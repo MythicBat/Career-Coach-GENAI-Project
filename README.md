@@ -70,7 +70,7 @@ truly assist people in making life decisions - not just generate text.
 
 4. Run the app:
    ```bash
-   python app.py
+   python Career-Coach.ipynb
 
 ---
 
