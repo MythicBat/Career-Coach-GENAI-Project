@@ -66,7 +66,7 @@ truly assist people in making life decisions - not just generate text.
 
 3. Add your OpenAI key:
    ```bash
-   export OPENAI_API_KEY="your-openai-key"
+   set OPENAI_API_KEY="your-openai-key"
 
 4. Run the app:
    ```bash
